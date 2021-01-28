@@ -1,4 +1,4 @@
-I like 3d printers, cheeseburgers, HP calculators, robots and South-Park. Some of my stuff:
+I like 3d printers, cheeseburgers, HP calculators, robots and South Park. Some of my stuff:
 
 * [Hardware designs](https://www.thingiverse.com/eried/about)
 * [Youtube videos](https://www.youtube.com/c/ErwinRied)
